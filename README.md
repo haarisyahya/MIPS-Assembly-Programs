@@ -1,12 +1,12 @@
 # MIPS-Assembly-programs-created
 This repository contains several projects completed using the MIPS/Assembly language. From a conversion table to a program that calculates permutations.
 
-PartB:
+<b>PartB:</b>
 
 A MIPS program that asks for and gets a non-negative integer n.
 It then prints the number n followed by n asterisks. 
 
-PartC:
+<b>PartC:</b>
 
 I use the program from PartB to ask for both a positive integer n greater then or equal to
 3 and a character ch. The I have my program print an n-by-n hollow square of the character ch.
@@ -34,7 +34,7 @@ UUUU
 
 
 
-PartD:
+<b>PartD:</b>
 
 A MIPS program which will accept 1 positive integer, in effect n. My program calculates P(n,r) for all possible combinations n and r from n down to 1. For example, the user
 enters 3, then your program should generate as output:
@@ -51,7 +51,7 @@ P(2,1) = 2
 
 P(1,1) = 1
 
-FloatingPoint:
+<b>FloatingPoint:</b>
 
 
 I assumed you are a farmer and must administer some drug to your ailing animals. The instructions
