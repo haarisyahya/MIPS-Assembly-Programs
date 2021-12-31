@@ -1,4 +1,4 @@
-# MIPS-Assembly-programs-created
+# MIPS-Assembly-programs
 This repository contains several projects completed using the MIPS/Assembly language. From a conversion table to a program that calculates permutations.
 
 <b>PartB:</b>
